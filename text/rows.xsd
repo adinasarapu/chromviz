@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <xsd:element name="rows">
+        <xsd:complexType>
+          <xsd:sequence minOccurs="0" maxOccurs="unbounded">
+            <xsd:element ref="row" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="row">
+        <xsd:complexType>
+          <xsd:sequence>
+          	<xsd:element name="firstname" type="xsd:string" />
+          	<xsd:element name="lastname" type="xsd:string" />
+          	<xsd:element name ="address" type ="xsd:string"/>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+    </xsd:schema>
+

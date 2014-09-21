@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pathway pathwayName="xyz" id="pqr">
+  <transition id=" Gm2023-- Gm1987">
+    <from>Gm2023</from>
+    <to>Gm1987</to>
+  </transition>
+  <transition id=" Gm1987-- Gm10591">
+    <from>Gm1987</from>
+    <to>Gm10591</to>
+  </transition>
+  <transition id=" Gm10591-- Crkl">
+    <from>Gm10591</from>
+    <to>Crkl</to>
+  </transition>
+  <transition id=" Gm1987-- Adcy6">
+    <from>Gm1987</from>
+    <to>Adcy6</to>
+  </transition>
+  <transition id=" Adcy6-- Cxcr4">
+    <from>Adcy6</from>
+    <to>Cxcr4</to>
+  </transition>
+  <transition id=" Cxcr4-- Ccr10">
+    <from>Cxcr4</from>
+    <to>Ccr10</to>
+  </transition>
+  <transition id=" Adcy6-- Gm15776">
+    <from>Adcy6</from>
+    <to>Gm15776</to>
+  </transition>
+  <transition id=" Gm15776-- Adrbk1">
+    <from>Gm15776</from>
+    <to>Adrbk1</to>
+  </transition>
+  <transition id=" Adrbk1-- Adcy8">
+    <from>Adrbk1</from>
+    <to>Adcy8</to>
+  </transition>
+  <transition id=" Adcy8-- Gng10">
+    <from>Adcy8</from>
+    <to>Gng10</to>
+  </transition>
+  <transition id=" Gng10-- Elmo1">
+    <from>Gng10</from>
+    <to>Elmo1</to>
+  </transition>
+  <transition id=" Elmo1-- Fgr">
+    <from>Elmo1</from>
+    <to>Fgr</to>
+  </transition>
+  <transition id=" Fgr-- Ptk2">
+    <from>Fgr</from>
+    <to>Ptk2</to>
+  </transition>
+  <transition id=" Ptk2-- Csk">
+    <from>Ptk2</from>
+    <to>Csk</to>
+  </transition>
+  <transition id=" Gm15776-- Adcy4">
+    <from>Gm15776</from>
+    <to>Adcy4</to>
+  </transition>
+  <transition id=" Adcy4-- Elmo1">
+    <from>Adcy4</from>
+    <to>Elmo1</to>
+  </transition>
+  <transition id=" Adcy4-- Gnb1">
+    <from>Adcy4</from>
+    <to>Gnb1</to>
+  </transition>
+  <transition id=" Gnb1-- Csk">
+    <from>Gnb1</from>
+    <to>Csk</to>
+  </transition>
+  <transition id=" Adcy4-- Cx3cr1">
+    <from>Adcy4</from>
+    <to>Cx3cr1</to>
+  </transition>
+  <transition id=" Cx3cr1-- Gnb3">
+    <from>Cx3cr1</from>
+    <to>Gnb3</to>
+  </transition>
+  <transition id=" Gnb3-- Gnb4">
+    <from>Gnb3</from>
+    <to>Gnb4</to>
+  </transition>
+  <transition id=" Gnb4-- Gnb2">
+    <from>Gnb4</from>
+    <to>Gnb2</to>
+  </transition>
+  <transition id=" Cx3cr1-- Gng2">
+    <from>Cx3cr1</from>
+    <to>Gng2</to>
+  </transition>
+  <transition id=" Gm15776-- Cxcr2">
+    <from>Gm15776</from>
+    <to>Cxcr2</to>
+  </transition>
+  <transition id=" Adcy4-- Cxcr2">
+    <from>Adcy4</from>
+    <to>Cxcr2</to>
+  </transition>
+  <transition id=" Cxcr2-- Chuk">
+    <from>Cxcr2</from>
+    <to>Chuk</to>
+  </transition>
+  <transition id=" Chuk-- Gnai3">
+    <from>Chuk</from>
+    <to>Gnai3</to>
+  </transition>
+  <transition id=" Gnai3-- Crk">
+    <from>Gnai3</from>
+    <to>Crk</to>
+  </transition>
+  <transition id=" Chuk-- Cxcr3">
+    <from>Chuk</from>
+    <to>Cxcr3</to>
+  </transition>
+  <transition id=" Cxcr3-- Crk">
+    <from>Cxcr3</from>
+    <to>Crk</to>
+  </transition>
+  <transition id=" Cxcr3-- Ccr1l1">
+    <from>Cxcr3</from>
+    <to>Ccr1l1</to>
+  </transition>
+  <transition id=" Chuk-- c-C motif chemokine 12-like">
+    <from>Chuk</from>
+    <to>c-C motif chemokine 12-like</to>
+  </transition>
+  <transition id=" c-C motif chemokine 12-like-- Ccr6">
+    <from>c-C motif chemokine 12-like</from>
+    <to>Ccr6</to>
+  </transition>
+  <transition id=" Adcy4-- Gngt1">
+    <from>Adcy4</from>
+    <to>Gngt1</to>
+  </transition>
+  <transition id=" Gngt1-- Gnai3">
+    <from>Gngt1</from>
+    <to>Gnai3</to>
+  </transition>
+  <transition id=" Adcy7-- Gngt1">
+    <from>Adcy7</from>
+    <to>Gngt1</to>
+  </transition>
+  <transition id=" Adcy7-- Adcy4">
+    <from>Adcy7</from>
+    <to>Adcy4</to>
+  </transition>
+  <transition id=" Gm15776-- Gng5">
+    <from>Gm15776</from>
+    <to>Gng5</to>
+  </transition>
+  <transition id=" Gng5-- Gnai3">
+    <from>Gng5</from>
+    <to>Gnai3</to>
+  </transition>
+  <transition id=" Gm15776-- Bcar1">
+    <from>Gm15776</from>
+    <to>Bcar1</to>
+  </transition>
+  <transition id=" Bcar1-- guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-12-like">
+    <from>Bcar1</from>
+    <to>guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-12-like</to>
+  </transition>
+  <transition id=" Bcar1-- Akt2">
+    <from>Bcar1</from>
+    <to>Akt2</to>
+  </transition>
+  <transition id=" Gm15776-- Gm4356">
+    <from>Gm15776</from>
+    <to>Gm4356</to>
+  </transition>
+  <transition id=" Adcy4-- Gm4356">
+    <from>Adcy4</from>
+    <to>Gm4356</to>
+  </transition>
+  <transition id=" Gm4356-- guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-12-like">
+    <from>Gm4356</from>
+    <to>guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-12-like</to>
+  </transition>
+  <transition id=" Gm4356-- Adcy9">
+    <from>Gm4356</from>
+    <to>Adcy9</to>
+  </transition>
+  <transition id=" Adcy9-- Akt2">
+    <from>Adcy9</from>
+    <to>Akt2</to>
+  </transition>
+  <transition id=" Adcy6-- Adcy7">
+    <from>Adcy6</from>
+    <to>Adcy7</to>
+  </transition>
+  <transition id=" Adcy7-- Adcy3">
+    <from>Adcy7</from>
+    <to>Adcy3</to>
+  </transition>
+  <transition id=" Adcy3-- Braf">
+    <from>Adcy3</from>
+    <to>Braf</to>
+  </transition>
+  <transition id=" Rap1a-- Ccr1">
+    <from>Rap1a</from>
+    <to>Ccr1</to>
+  </transition>
+  <transition id=" Ccr1-- Ccr9">
+    <from>Ccr1</from>
+    <to>Ccr9</to>
+  </transition>
+  <transition id=" Ccr9-- Cxcr3">
+    <from>Ccr9</from>
+    <to>Cxcr3</to>
+  </transition>
+  <transition id=" Cxcr3-- Gng7">
+    <from>Cxcr3</from>
+    <to>Gng7</to>
+  </transition>
+  <transition id=" Ccr5-- Gnai3">
+    <from>Ccr5</from>
+    <to>Gnai3</to>
+  </transition>
+  <transition id=" Rap1a-- Ccr3">
+    <from>Rap1a</from>
+    <to>Ccr3</to>
+  </transition>
+  <transition id=" Adcy3-- Ccr3">
+    <from>Adcy3</from>
+    <to>Ccr3</to>
+  </transition>
+  <transition id=" Arrb1-- Ccr1">
+    <from>Arrb1</from>
+    <to>Ccr1</to>
+  </transition>
+  <transition id=" Ccr3-- Ccr7">
+    <from>Ccr3</from>
+    <to>Ccr7</to>
+  </transition>
+  <transition id=" Cxcr5-- Gm1987">
+    <from>Cxcr5</from>
+    <to>Gm1987</to>
+  </transition>
+  <transition id=" Rhoa-- Gm1987">
+    <from>Rhoa</from>
+    <to>Gm1987</to>
+  </transition>
+  <transition id=" Cx3cr1-- Gng12">
+    <from>Cx3cr1</from>
+    <to>Gng12</to>
+  </transition>
+</pathway>
+

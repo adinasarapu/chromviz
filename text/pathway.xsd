@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="pathway">
+   <xs:complexType>       
+      <xs:sequence>
+        <xs:element ref="transition" maxOccurs ="unbounded"/>
+      </xs:sequence>       
+      <xs:attribute name="pathwayName" type ="xs:string"/>
+      <xs:attribute name ="id" type ="xs:string"/>
+    </xs:complexType>  
+    </xs:element>
+  <xs:element name="transition">
+  <xs:complexType>
+      <xs:sequence>
+      	<xs:element ref="from" />
+        <xs:element ref ="to" />
+        </xs:sequence> 
+        <xs:attribute name ="id" type ="xs:string"/>   
+    </xs:complexType>
+    </xs:element>
+    <xs:element name="from">
+  <xs:complexType>
+      <xs:sequence>
+      	<xs:element name="dnaSeq"  type="xs:string"/>
+        <xs:element name ="proteinSeq" type="xs:string" />
+        </xs:sequence> 
+        <xs:attribute name ="geneName" type ="xs:string"/>   
+    </xs:complexType>
+    </xs:element>
+    <xs:element name="to">
+  <xs:complexType>
+      <xs:sequence>
+      	<xs:element name="dnaSeq" type="xs:string" />
+        <xs:element name ="proteinSeq" type="xs:string"/>
+        </xs:sequence> 
+        <xs:attribute name ="geneName" type ="xs:string"/>   
+    </xs:complexType>
+    </xs:element> 
+   </xs:schema>
